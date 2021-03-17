@@ -15,3 +15,5 @@ On the left is the name of the edition and on the right is the keycode
 * Windows 10 Education N - edun
 * Windows 10 Enterprise - ent
 * Windows 10 Enterprise N - entn
+# FreeWin GUI (Coming Soon)
+I'll upload an executable file of how the GUI version of FreeWin will look when I have more time. Until then, use the console version. Like actually, you don't need to be a master to use it, you just need to put the right version "keycode" when it prompts you to and you're golden. Peace.
