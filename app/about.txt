@@ -1,6 +1,6 @@
 Author: theBadDaniel
 Instagram: @danielgjypi
 YouTube: theBadDaniel
-Special thanks to: Random Guy on StackOverflow
-Package Installer: Windows IExpress
+Special thanks to: Random Guy on StackOverflow, MSGuides.com
+Package Installer: WinRAR SFX Archive
 Copyright 2021 theBadDaniel
