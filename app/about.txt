@@ -1,6 +1,5 @@
-Author: theBadDaniel
+Author: Daniel Gjypi
 Instagram: @danielgjypi
-YouTube: theBadDaniel
 Special thanks to: Random Guy on StackOverflow, MSGuides.com
 Package Installer: WinRAR SFX Archive
 Copyright 2021 theBadDaniel
