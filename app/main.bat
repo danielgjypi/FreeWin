@@ -33,6 +33,6 @@ echo ---------------------------------------------------------------------------
 echo This is an experimental build of FreeOffice. It currently only activates Office 2016, but it will expand.
 echo FreeOffice will most likely be an addition to FreeWin, but i might make a seperate version of it.
 echo ------------------------------------------------------------------------------------------------------------------
-start freeoffice/main.bat
+start /freeoffice/main.bat
 exit
 )
