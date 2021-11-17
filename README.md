@@ -1,6 +1,8 @@
-# theBadDaniel's FreeWin
+# FreeWin
 Run the "activate.exe" file as an administrator and go through the activation process.
-If you are not sure what version of windows you're running, Click on the Start Button -> Type "This Pc" -> Click on properties -> Look for Windows 10 (windows edition).
+If you are not sure what version of windows you're running, Click on the Start Button -> Type "This Pc" -> Click on properties -> Look for Windows 10 (windows edition), or type "C" on the main page of the app.
+# FreeOffice (Experimental)
+Run the "activate.exe" file as an administrator, and press "O" to start the activation progress. It should be automatic. It currently only works for Office 2016.
 # Windows edition codes
 When asked to type your Windows 10 Edition, follow the steps below:
 On the left is the name of the edition and on the right is the keycode
@@ -16,4 +18,4 @@ On the left is the name of the edition and on the right is the keycode
 * Windows 10 Enterprise - ent
 * Windows 10 Enterprise N - entn
 # FreeWin GUI (Coming Soon)
-I'll upload an executable file of how the GUI version of FreeWin will look when I have more time. Until then, use the console version. Like actually, you don't need to be a master to use it, you just need to put the right version "keycode" when it prompts you to and you're golden. Peace.
+I'll upload an executable file of how the GUI version of FreeWin will look when I have more time. Until then, use the console version.
