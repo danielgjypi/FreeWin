@@ -3,6 +3,8 @@ Run the "activate.exe" file as an administrator and go through the activation pr
 If you are not sure what version of windows you're running, Click on the Start Button -> Type "This Pc" -> Click on properties -> Look for Windows 10 (windows edition), or type "C" on the main page of the app.
 
 ![Free Win 10 Logo](https://i.postimg.cc/RF7nGzXW/Logo.png)
+# Try the all new FreeWin Web just released!
+The new web based FreeWin app allows you to quickly generate the required activation files without having to download the CMD version. Try it now at https://danielgjypi.github.io/FreeWin-Web/
 # FreeOffice (Experimental)
 Run the "activate.exe" file as an administrator, and press "O" to start the activation progress. It should be automatic. It currently only works for Office 2016.
 # Windows edition codes
