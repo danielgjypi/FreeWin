@@ -1,4 +1,4 @@
-# FreeWin Web!
+# (Announcement) FreeWin Web!
 The new web based FreeWin app allows you to quickly generate the required activation files without having to download the CMD version. Try it now at https://danielgjypi.github.io/FreeWin-Web/
 
 ![Free Win 10 Logo](https://i.postimg.cc/RF7nGzXW/Logo.png)
